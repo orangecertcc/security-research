@@ -11,6 +11,10 @@ Proof of Concept will be not published in this github repository before security
 
 The disclosure of vulnerabilities are all in the form of security advisories, which can be browsed in the [Security Advisories](https://github.com/orangecertcc/security-research/security/advisories?state=published) page.
 
+## Simulations
+
+This sub-folder contains several simulations performed by Orange researchers and auditors.
+
 ## Proof of Concepts
 
 Accompanying proof-of-concept code will be used to demonstrate the security vulnerabilities.
